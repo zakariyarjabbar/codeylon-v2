@@ -1,0 +1,30 @@
+{
+  "purpose": "Original AI-generated assets for visibly labelled fictional website concepts, not real client work",
+  "generated_date": "2026-09-05",
+  "assets": [
+    {
+      "asset": "restaurant",
+      "path": "/images/olio.webp",
+      "mode": "built-in image_gen",
+      "generation_requests": 1,
+      "fictional_concept": true,
+      "prompt": "Use case: photorealistic-natural\nAsset type: photograph for a visibly labelled fictional restaurant website concept.\nPrimary request: editorial Mediterranean restaurant still life, a sunlit tabletop with a ceramic plate of burrata, tomatoes, basil and olive oil.\nStyle/medium: stylish, appetizing natural editorial photograph with realistic food and ceramic textures.\nComposition/framing: wide landscape image, 3:2 aspect ratio, composed for a website portfolio image.\nLighting/mood: warm Mediterranean sunlight, natural shadows.\nColor palette: warm terracotta and cream.\nConstraints: original fictional scene, no text, no logos, no watermark."
+    },
+    {
+      "asset": "architecture",
+      "path": "/images/forma.webp",
+      "mode": "built-in image_gen",
+      "generation_requests": 1,
+      "fictional_concept": true,
+      "prompt": "Use case: photorealistic-natural\nAsset type: photograph for a visibly labelled fictional architectural portfolio website concept.\nPrimary request: sculptural monolithic pale sandstone house detail and entry courtyard with one olive tree.\nStyle/medium: elegant, quiet editorial architectural photograph with realistic stone textures and believable structural geometry.\nComposition/framing: wide landscape image, 3:2 aspect ratio, composed for a website portfolio image.\nLighting/mood: warm sunlight and deep shadow.\nColor palette: pale sandstone and warm natural neutrals.\nConstraints: original fictional architecture, exactly one olive tree, no people, no text, no logos, no watermark."
+    },
+    {
+      "asset": "skincare",
+      "path": "/images/still.webp",
+      "mode": "built-in image_gen",
+      "generation_requests": 1,
+      "fictional_concept": true,
+      "prompt": "Use case: product-mockup\nAsset type: photograph for a visibly labelled fictional skincare website concept.\nPrimary request: minimalist skincare product still life with two unlabelled offwhite matte cosmetic bottles and muted sage soap on a pale green plinth against a sage green background, with one leaf.\nStyle/medium: contemporary, calm editorial product photograph; realistic matte materials.\nComposition/framing: wide landscape image, 3:2 aspect ratio, composed for a website portfolio image.\nLighting/mood: direct sunlight with intentional natural shadows.\nColor palette: offwhite and muted sage green.\nConstraints: original fictional products, exactly two bottles, no printed labels, no text, no logos, no watermark."
+    }
+  ]
+}

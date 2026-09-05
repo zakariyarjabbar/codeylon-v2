@@ -1,0 +1,515 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-05T20:23:23.715Z",
+  "title": "Design System: Codeylon",
+  "extensions": {
+    "colorMeta": {
+      "navy": {
+        "role": "primary",
+        "displayName": "Deep Navy",
+        "tonalRamp": [
+          "oklch(15.00% 0.08262 264.26)",
+          "oklch(26.43% 0.08262 264.26)",
+          "oklch(37.86% 0.08262 264.26)",
+          "oklch(49.29% 0.08262 264.26)",
+          "oklch(60.71% 0.08262 264.26)",
+          "oklch(72.14% 0.08262 264.26)",
+          "oklch(83.57% 0.08262 264.26)",
+          "oklch(95.00% 0.08262 264.26)"
+        ]
+      },
+      "gold": {
+        "role": "primary",
+        "displayName": "Muted Gold",
+        "tonalRamp": [
+          "oklch(15.00% 0.11445 87.46)",
+          "oklch(26.43% 0.11445 87.46)",
+          "oklch(37.86% 0.11445 87.46)",
+          "oklch(49.29% 0.11445 87.46)",
+          "oklch(60.71% 0.11445 87.46)",
+          "oklch(72.14% 0.11445 87.46)",
+          "oklch(83.57% 0.11445 87.46)",
+          "oklch(95.00% 0.11445 87.46)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Warm Paper",
+        "tonalRamp": [
+          "oklch(15.00% 0.00951 93.57)",
+          "oklch(26.43% 0.00951 93.57)",
+          "oklch(37.86% 0.00951 93.57)",
+          "oklch(49.29% 0.00951 93.57)",
+          "oklch(60.71% 0.00951 93.57)",
+          "oklch(72.14% 0.00951 93.57)",
+          "oklch(83.57% 0.00951 93.57)",
+          "oklch(95.00% 0.00951 93.57)"
+        ]
+      },
+      "cream": {
+        "role": "neutral",
+        "displayName": "Cream Board",
+        "tonalRamp": [
+          "oklch(15.00% 0.01373 92.99)",
+          "oklch(26.43% 0.01373 92.99)",
+          "oklch(37.86% 0.01373 92.99)",
+          "oklch(49.29% 0.01373 92.99)",
+          "oklch(60.71% 0.01373 92.99)",
+          "oklch(72.14% 0.01373 92.99)",
+          "oklch(83.57% 0.01373 92.99)",
+          "oklch(95.00% 0.01373 92.99)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Slate Copy",
+        "tonalRamp": [
+          "oklch(15.00% 0.02954 265.33)",
+          "oklch(26.43% 0.02954 265.33)",
+          "oklch(37.86% 0.02954 265.33)",
+          "oklch(49.29% 0.02954 265.33)",
+          "oklch(60.71% 0.02954 265.33)",
+          "oklch(72.14% 0.02954 265.33)",
+          "oklch(83.57% 0.02954 265.33)",
+          "oklch(95.00% 0.02954 265.33)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Quiet Rule",
+        "tonalRamp": [
+          "oklch(15.00% 0.00726 268.54)",
+          "oklch(26.43% 0.00726 268.54)",
+          "oklch(37.86% 0.00726 268.54)",
+          "oklch(49.29% 0.00726 268.54)",
+          "oklch(60.71% 0.00726 268.54)",
+          "oklch(72.14% 0.00726 268.54)",
+          "oklch(83.57% 0.00726 268.54)",
+          "oklch(95.00% 0.00726 268.54)"
+        ]
+      },
+      "gold-ink": {
+        "role": "primary",
+        "displayName": "Dark Gold Ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.09142 82.81)",
+          "oklch(26.43% 0.09142 82.81)",
+          "oklch(37.86% 0.09142 82.81)",
+          "oklch(49.29% 0.09142 82.81)",
+          "oklch(60.71% 0.09142 82.81)",
+          "oklch(72.14% 0.09142 82.81)",
+          "oklch(83.57% 0.09142 82.81)",
+          "oklch(95.00% 0.09142 82.81)"
+        ]
+      },
+      "inverse-muted": {
+        "role": "neutral",
+        "displayName": "Inverse Copy",
+        "tonalRamp": [
+          "oklch(15.00% 0.01590 269.96)",
+          "oklch(26.43% 0.01590 269.96)",
+          "oklch(37.86% 0.01590 269.96)",
+          "oklch(49.29% 0.01590 269.96)",
+          "oklch(60.71% 0.01590 269.96)",
+          "oklch(72.14% 0.01590 269.96)",
+          "oklch(83.57% 0.01590 269.96)",
+          "oklch(95.00% 0.01590 269.96)"
+        ]
+      },
+      "inverse-line": {
+        "role": "neutral",
+        "displayName": "Inverse Rule",
+        "tonalRamp": [
+          "oklch(15.00% 0.03443 266.95)",
+          "oklch(26.43% 0.03443 266.95)",
+          "oklch(37.86% 0.03443 266.95)",
+          "oklch(49.29% 0.03443 266.95)",
+          "oklch(60.71% 0.03443 266.95)",
+          "oklch(72.14% 0.03443 266.95)",
+          "oklch(83.57% 0.03443 266.95)",
+          "oklch(95.00% 0.03443 266.95)"
+        ]
+      },
+      "olio-butter": {
+        "role": "secondary",
+        "displayName": "Olio Butter",
+        "tonalRamp": [
+          "oklch(15.00% 0.05880 89.01)",
+          "oklch(26.43% 0.05880 89.01)",
+          "oklch(37.86% 0.05880 89.01)",
+          "oklch(49.29% 0.05880 89.01)",
+          "oklch(60.71% 0.05880 89.01)",
+          "oklch(72.14% 0.05880 89.01)",
+          "oklch(83.57% 0.05880 89.01)",
+          "oklch(95.00% 0.05880 89.01)"
+        ]
+      },
+      "olio-terracotta": {
+        "role": "secondary",
+        "displayName": "Olio Terracotta",
+        "tonalRamp": [
+          "oklch(15.00% 0.08413 34.33)",
+          "oklch(26.43% 0.08413 34.33)",
+          "oklch(37.86% 0.08413 34.33)",
+          "oklch(49.29% 0.08413 34.33)",
+          "oklch(60.71% 0.08413 34.33)",
+          "oklch(72.14% 0.08413 34.33)",
+          "oklch(83.57% 0.08413 34.33)",
+          "oklch(95.00% 0.08413 34.33)"
+        ]
+      },
+      "olio-menu": {
+        "role": "secondary",
+        "displayName": "Olio Deep Menu Terracotta",
+        "tonalRamp": [
+          "oklch(15.00% 0.09456 35.19)",
+          "oklch(26.43% 0.09456 35.19)",
+          "oklch(37.86% 0.09456 35.19)",
+          "oklch(49.29% 0.09456 35.19)",
+          "oklch(60.71% 0.09456 35.19)",
+          "oklch(72.14% 0.09456 35.19)",
+          "oklch(83.57% 0.09456 35.19)",
+          "oklch(95.00% 0.09456 35.19)"
+        ]
+      },
+      "forma-stone": {
+        "role": "secondary",
+        "displayName": "Forma Stone",
+        "tonalRamp": [
+          "oklch(15.00% 0.00960 93.57)",
+          "oklch(26.43% 0.00960 93.57)",
+          "oklch(37.86% 0.00960 93.57)",
+          "oklch(49.29% 0.00960 93.57)",
+          "oklch(60.71% 0.00960 93.57)",
+          "oklch(72.14% 0.00960 93.57)",
+          "oklch(83.57% 0.00960 93.57)",
+          "oklch(95.00% 0.00960 93.57)"
+        ]
+      },
+      "forma-charcoal": {
+        "role": "secondary",
+        "displayName": "Forma Charcoal",
+        "tonalRamp": [
+          "oklch(15.00% 0.01683 141.69)",
+          "oklch(26.43% 0.01683 141.69)",
+          "oklch(37.86% 0.01683 141.69)",
+          "oklch(49.29% 0.01683 141.69)",
+          "oklch(60.71% 0.01683 141.69)",
+          "oklch(72.14% 0.01683 141.69)",
+          "oklch(83.57% 0.01683 141.69)",
+          "oklch(95.00% 0.01683 141.69)"
+        ]
+      },
+      "forma-muted": {
+        "role": "secondary",
+        "displayName": "Forma Muted Olive",
+        "tonalRamp": [
+          "oklch(15.00% 0.02504 127.77)",
+          "oklch(26.43% 0.02504 127.77)",
+          "oklch(37.86% 0.02504 127.77)",
+          "oklch(49.29% 0.02504 127.77)",
+          "oklch(60.71% 0.02504 127.77)",
+          "oklch(72.14% 0.02504 127.77)",
+          "oklch(83.57% 0.02504 127.77)",
+          "oklch(95.00% 0.02504 127.77)"
+        ]
+      },
+      "forma-line": {
+        "role": "secondary",
+        "displayName": "Forma Stone Rule",
+        "tonalRamp": [
+          "oklch(15.00% 0.01457 120.38)",
+          "oklch(26.43% 0.01457 120.38)",
+          "oklch(37.86% 0.01457 120.38)",
+          "oklch(49.29% 0.01457 120.38)",
+          "oklch(60.71% 0.01457 120.38)",
+          "oklch(72.14% 0.01457 120.38)",
+          "oklch(83.57% 0.01457 120.38)",
+          "oklch(95.00% 0.01457 120.38)"
+        ]
+      },
+      "still-sage": {
+        "role": "secondary",
+        "displayName": "Still Sage",
+        "tonalRamp": [
+          "oklch(15.00% 0.01887 130.19)",
+          "oklch(26.43% 0.01887 130.19)",
+          "oklch(37.86% 0.01887 130.19)",
+          "oklch(49.29% 0.01887 130.19)",
+          "oklch(60.71% 0.01887 130.19)",
+          "oklch(72.14% 0.01887 130.19)",
+          "oklch(83.57% 0.01887 130.19)",
+          "oklch(95.00% 0.01887 130.19)"
+        ]
+      },
+      "still-forest": {
+        "role": "secondary",
+        "displayName": "Still Forest",
+        "tonalRamp": [
+          "oklch(15.00% 0.04238 152.88)",
+          "oklch(26.43% 0.04238 152.88)",
+          "oklch(37.86% 0.04238 152.88)",
+          "oklch(49.29% 0.04238 152.88)",
+          "oklch(60.71% 0.04238 152.88)",
+          "oklch(72.14% 0.04238 152.88)",
+          "oklch(83.57% 0.04238 152.88)",
+          "oklch(95.00% 0.04238 152.88)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Default Codeylon heading scale, with viewport-specific hero overrides."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Large section headings, often paired with a short pixel phrase."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Supporting headings with section-specific sizes."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Readable prose; the base for local supporting-copy treatments."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Small outlined concept status tags."
+      },
+      "action": {
+        "displayName": "Action",
+        "purpose": "Full-size action text."
+      },
+      "action-small": {
+        "displayName": "Small Action",
+        "purpose": "Compact action text."
+      },
+      "pixel": {
+        "displayName": "Pixel Accent",
+        "purpose": "Short emphasis and process numerals, never paragraphs."
+      },
+      "concept-serif": {
+        "displayName": "Concept Serif",
+        "purpose": "Expressive typography confined to the Olio and Still presentations."
+      }
+    },
+    "shadows": [
+      {
+        "name": "action",
+        "value": "5px 5px 0 var(--navy)",
+        "purpose": "Primary gold action offset."
+      },
+      {
+        "name": "action-hover",
+        "value": "2px 2px 0 var(--navy)",
+        "purpose": "Compressed offset after a 3px button press."
+      },
+      {
+        "name": "action-inverse",
+        "value": "5px 5px 0 var(--paper)",
+        "purpose": "Navy action offset on gold."
+      },
+      {
+        "name": "small-action-and-step",
+        "value": "3px 3px 0 var(--navy)",
+        "purpose": "Compact action and pixel process marker."
+      },
+      {
+        "name": "concept-card",
+        "value": "4px 4px 0 var(--navy)",
+        "purpose": "Linked concept frame at rest."
+      },
+      {
+        "name": "concept-card-hover",
+        "value": "7px 7px 0 var(--navy)",
+        "purpose": "Linked frame lifted up and left by 2px."
+      },
+      {
+        "name": "workshop-stamp",
+        "value": "8px 8px 0 var(--navy)",
+        "purpose": "Rotated gold stamp."
+      },
+      {
+        "name": "illustrated-browser",
+        "value": "10px 10px 0 var(--navy)",
+        "purpose": "Decorative browser window."
+      },
+      {
+        "name": "expanded-presentation",
+        "value": "0 12px 30px #091a4414",
+        "purpose": "Soft-shadow exception below the enlarged concept preview."
+      }
+    ],
+    "motion": [
+      {
+        "name": "button-press",
+        "value": "transform 140ms steps(2), box-shadow 140ms steps(2)",
+        "purpose": "Short stepped button compression."
+      },
+      {
+        "name": "text-link-arrow",
+        "value": "transform 150ms steps(2)",
+        "purpose": "Arrow shifts by 3px horizontally and -2px vertically on hover."
+      },
+      {
+        "name": "concept-frame",
+        "value": "box-shadow 150ms, transform 150ms",
+        "purpose": "Concept card hover lift."
+      },
+      {
+        "name": "concept-photo",
+        "value": "transform 300ms ease",
+        "purpose": "Linked preview image scales to 1.025 on hover."
+      },
+      {
+        "name": "cursor-arrive",
+        "value": "700ms steps(5) both",
+        "purpose": "One cursor entrance from translate(14px, 16px) to zero, retaining a -7deg rotation."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation: none; transition: none; scroll-behavior: auto",
+        "purpose": "Applied when prefers-reduced-motion is reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "min-wide",
+        "value": "1500px"
+      },
+      {
+        "name": "max-compact-desktop",
+        "value": "1190px"
+      },
+      {
+        "name": "max-tablet",
+        "value": "980px"
+      },
+      {
+        "name": "max-phone",
+        "value": "760px"
+      },
+      {
+        "name": "max-narrow-phone",
+        "value": "400px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Gold primary action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The full-size Instagram invitation used on paper.",
+      "html": "<a class=\"ds-button-primary\" href=\"https://www.instagram.com/codeylon/\" target=\"_blank\" rel=\"noreferrer\" aria-label=\"Discuss your website on Instagram (opens in a new tab)\">Discuss your website <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-linejoin=\"miter\"/></svg></a>",
+      "css": ".ds-button-primary{display:inline-flex;align-items:center;justify-content:center;gap:22px;min-height:56px;padding:14px 23px;background:var(--gold, #bd9a41);color:var(--navy, #091a44);border:2px solid var(--navy, #091a44);border-radius:0;box-shadow:5px 5px 0 var(--navy, #091a44);font-family:var(--font-main, \"Space Grotesk Variable\", sans-serif);font-size:15px;font-weight:600;line-height:1.35;text-decoration:none;transition:transform 140ms steps(2),box-shadow 140ms steps(2);}.ds-button-primary:hover{transform:translate(3px,3px);box-shadow:2px 2px 0 var(--navy, #091a44);}.ds-button-primary:active{transform:translate(5px,5px);box-shadow:none;}.ds-button-primary svg{flex-shrink:0;}.ds-button-primary:focus-visible{outline:3px solid currentColor;outline-offset:6px;}@media(prefers-reduced-motion:reduce){.ds-button-primary{transition:none;}}"
+    },
+    {
+      "name": "Compact gold action",
+      "kind": "button",
+      "refersTo": "button-small",
+      "description": "The header shortcut to the page contact section.",
+      "html": "<a class=\"ds-button-small\" href=\"/#contact\">Let’s talk <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-linejoin=\"miter\"/></svg></a>",
+      "css": ".ds-button-small{display:inline-flex;align-items:center;justify-content:center;gap:18px;min-height:45px;padding:10px 17px;background:var(--gold, #bd9a41);color:var(--navy, #091a44);border:2px solid var(--navy, #091a44);border-radius:0;box-shadow:3px 3px 0 var(--navy, #091a44);font-family:var(--font-main, \"Space Grotesk Variable\", sans-serif);font-size:14px;font-weight:600;line-height:1.35;text-decoration:none;transition:transform 140ms steps(2),box-shadow 140ms steps(2);}.ds-button-small:hover{transform:translate(3px,3px);box-shadow:2px 2px 0 var(--navy, #091a44);}.ds-button-small:active{transform:translate(5px,5px);box-shadow:none;}.ds-button-small svg{flex-shrink:0;}.ds-button-small:focus-visible{outline:3px solid currentColor;outline-offset:6px;}@media(prefers-reduced-motion:reduce){.ds-button-small{transition:none;}}"
+    },
+    {
+      "name": "Navy contact action",
+      "kind": "button",
+      "refersTo": "button-navy",
+      "description": "The inverted Instagram action with a paper offset on a gold surface.",
+      "html": "<div class=\"ds-contact-surface\"><a class=\"ds-button-navy\" href=\"https://www.instagram.com/codeylon/\" target=\"_blank\" rel=\"noreferrer\" aria-label=\"Message us on Instagram (opens in a new tab)\">Message us on Instagram <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-linejoin=\"miter\"/></svg></a></div>",
+      "css": ".ds-contact-surface{background:var(--gold, #bd9a41);padding:24px;}.ds-button-navy{display:inline-flex;align-items:center;justify-content:center;gap:22px;min-height:56px;padding:14px 23px;background:var(--navy, #091a44);color:var(--paper, #f7f5ee);border:2px solid var(--navy, #091a44);border-radius:0;box-shadow:5px 5px 0 var(--paper, #f7f5ee);font-family:var(--font-main, \"Space Grotesk Variable\", sans-serif);font-size:15px;font-weight:600;line-height:1.35;text-decoration:none;transition:transform 140ms steps(2),box-shadow 140ms steps(2);}.ds-button-navy:hover{transform:translate(3px,3px);box-shadow:2px 2px 0 var(--paper, #f7f5ee);}.ds-button-navy:active{transform:translate(5px,5px);box-shadow:none;}.ds-button-navy svg{flex-shrink:0;}.ds-button-navy:focus-visible{outline:3px solid currentColor;outline-offset:6px;}@media(prefers-reduced-motion:reduce){.ds-button-navy{transition:none;}}"
+    },
+    {
+      "name": "Underlined text action",
+      "kind": "button",
+      "refersTo": "text-link",
+      "description": "A real link with a ruled baseline and a moving arrow.",
+      "html": "<a class=\"ds-text-link\" href=\"/#work\">Explore our designs <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M3 12h17M13 5l7 7-7 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-linejoin=\"miter\"/></svg></a>",
+      "css": ".ds-text-link{display:inline-flex;align-items:center;gap:12px;min-height:44px;color:var(--navy, #091a44);font-family:var(--font-main, \"Space Grotesk Variable\", sans-serif);font-size:15px;font-weight:500;line-height:1.4;text-decoration:none;border-bottom:1px solid var(--navy, #091a44);}.ds-text-link svg{flex-shrink:0;transition:transform 150ms steps(2);}.ds-text-link:hover svg{transform:translate(3px,-2px);}.ds-text-link:focus-visible{outline:3px solid currentColor;outline-offset:6px;}@media(prefers-reduced-motion:reduce){.ds-text-link svg{transition:none;}}"
+    },
+    {
+      "name": "Main navigation links",
+      "kind": "nav",
+      "refersTo": "main-navigation",
+      "description": "The desktop text-link row; the mobile disclosure behavior is documented in DESIGN.md.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a class=\"ds-nav-link\" href=\"/#work\">Design examples</a><a class=\"ds-nav-link\" href=\"/#services\">What we build</a><a class=\"ds-nav-link\" href=\"/#process\">Our process</a><a class=\"ds-nav-link\" href=\"/#about\">About</a></nav>",
+      "css": ".ds-nav{display:flex;gap:29px;align-items:center;background:var(--paper, #f7f5ee);color:var(--navy, #091a44);font-family:var(--font-main, \"Space Grotesk Variable\", sans-serif);}.ds-nav-link{font-size:14px;font-weight:500;line-height:44px;white-space:nowrap;text-decoration:none;text-underline-offset:5px;color:inherit;}.ds-nav-link:hover{text-decoration:underline;}.ds-nav-link:focus-visible{outline:3px solid currentColor;outline-offset:6px;}"
+    },
+    {
+      "name": "Concept project label",
+      "kind": "chip",
+      "refersTo": "concept-label",
+      "description": "A static status tag establishing that an example is fictional.",
+      "html": "<span class=\"ds-concept-label\">Concept project</span>",
+      "css": ".ds-concept-label{border:1px solid var(--navy, #091a44);padding:2px 7px;font-family:var(--font-main, \"Space Grotesk Variable\", sans-serif);font-size:10px;font-weight:400;color:var(--navy, #091a44);line-height:1.5;white-space:nowrap;background:var(--paper, #f7f5ee);border-radius:0;}"
+    },
+    {
+      "name": "Sample-content panel",
+      "kind": "card",
+      "refersTo": "sample-panel",
+      "description": "The cream ruled panel used for illustrative content below each design presentation.",
+      "html": "<section class=\"ds-sample-panel\"><h3 class=\"ds-sample-title\">A taste of the menu</h3><p class=\"ds-sample-intro\">Example content showing how a menu can stay readable, useful, and easy to browse.</p><ul class=\"ds-sample-menu\"><li class=\"ds-sample-item\"><strong class=\"ds-sample-name\">To start · Burrata &amp; tomatoes</strong><span class=\"ds-sample-description\">Ripe tomatoes, fresh basil, extra virgin olive oil.</span></li></ul></section>",
+      "css": ".ds-sample-panel{padding:40px;background:var(--cream, #ece9df);color:var(--navy, #091a44);border-top:2px solid var(--navy, #091a44);font-family:var(--font-main, \"Space Grotesk Variable\", sans-serif);border-radius:0;}.ds-sample-title{margin:0;font-size:24px;font-weight:600;line-height:1.1;letter-spacing:-.025em;}.ds-sample-intro{font-size:14px;line-height:1.8;color:var(--muted, #505869);margin:13px 0 0;}.ds-sample-menu{list-style:none;padding:0;margin:20px 0 0;}.ds-sample-item{border-top:1px solid var(--line, #c9cbd0);padding-block:14px;}.ds-sample-name{font-weight:500;display:block;font-size:16px;line-height:1.6;}.ds-sample-description{font-size:14px;line-height:1.6;color:var(--muted, #505869);}@media(max-width:980px){.ds-sample-panel{padding:28px;}}@media(max-width:760px){.ds-sample-panel{padding:25px;}}"
+    },
+    {
+      "name": "Native FAQ disclosure",
+      "kind": "custom",
+      "refersTo": "faq-disclosure",
+      "description": "A keyboard-operable native disclosure with the implemented plus-to-minus state.",
+      "html": "<div class=\"ds-faq-list\"><details class=\"ds-faq\" name=\"ds-codeylon-faq\"><summary class=\"ds-faq-summary\">How do you work out the quote?<span class=\"ds-faq-plus\" aria-hidden=\"true\"></span></summary><div class=\"ds-faq-answer\"><p class=\"ds-faq-copy\">We start by discussing the pages, content, design needs, and features your website requires. Once the scope is clear, we provide a quote for that work. There is no need to arrive with a finished specification.</p></div></details></div>",
+      "css": ".ds-faq-list{border-top:1px solid var(--navy, #091a44);background:var(--cream, #ece9df);color:var(--navy, #091a44);font-family:var(--font-main, \"Space Grotesk Variable\", sans-serif);}.ds-faq{border-bottom:1px solid var(--line, #c9cbd0);}.ds-faq-summary{cursor:pointer;list-style:none;display:flex;align-items:center;justify-content:space-between;gap:25px;font-weight:500;font-size:16px;line-height:1.5;padding:22px 0;}.ds-faq-summary::-webkit-details-marker{display:none;}.ds-faq-summary:hover{color:#795e21;}.ds-faq-summary:focus-visible{outline:3px solid currentColor;outline-offset:6px;}.ds-faq-plus{width:14px;height:2px;background:currentColor;position:relative;flex-shrink:0;margin:0 5px;}.ds-faq-plus:after{content:\"\";position:absolute;top:-6px;left:6px;width:2px;height:14px;background:currentColor;}.ds-faq[open] .ds-faq-plus:after{display:none;}.ds-faq-answer{padding:0 36px 24px 0;}.ds-faq-copy{margin:0;font-size:14px;line-height:1.85;max-width:660px;color:var(--muted, #505869);}"
+    },
+    {
+      "name": "Pixel process marker",
+      "kind": "custom",
+      "refersTo": "process-marker",
+      "description": "A static gold step number with a hard offset and pixel typography.",
+      "html": "<span class=\"ds-process-marker\">01</span>",
+      "css": ".ds-process-marker{display:flex;align-items:center;justify-content:center;width:52px;height:46px;border:2px solid var(--navy, #091a44);box-shadow:3px 3px 0 var(--navy, #091a44);background:var(--gold, #bd9a41);color:var(--navy, #091a44);font-family:var(--font-pixel,\"Pixelify Sans\",monospace);font-size:29px;font-weight:400;letter-spacing:-.035em;line-height:1.6;border-radius:0;}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Pixel Workshop",
+    "overview": "Codeylon's neo-brutalism is tactile and deliberately constructed: warm paper, navy rules, gold surfaces, square edges, and hard offset shadows. Pixel type and original pixel artwork give the work its immediately visible character. Generous section spacing and readable sans-serif copy keep the expressive details easy to follow.\n\nThe Codeylon frame retains its supplied identity while the three fictional concepts carry their own coherent palettes, typography, and photography. These are complete static design presentations within the site. Their illustrative names, content, and imagery are visibly identified as fictional.\n\nThis record describes the implementation in `src/app/globals.css`, the shared components, and the homepage and concept routes. `.impeccable/design.json` supplies component specimens and extensions. Its generated tonal ramps are panel aids, not additional colors used by the website.",
+    "keyCharacteristics": [
+      "Square frames, visible rules, and selective hard offset shadows.",
+      "Space Grotesk text with short Pixelify Sans accents.",
+      "Original pixel scenes alongside the protected supplied logo.",
+      "Three distinct fictional worlds inside a consistent Codeylon frame."
+    ],
+    "rules": [
+      {
+        "name": "The Gold Legibility Rule",
+        "body": "Use navy text on gold surfaces. Small gold text belongs on navy; light-surface numbered accents use Dark Gold Ink.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Voices Rule",
+        "body": "Keep readable information in Space Grotesk and use Pixelify Sans for short emphasis. Georgia remains inside the Olio and Still presentations.",
+        "section": "typography"
+      },
+      {
+        "name": "The Hard Edge Rule",
+        "body": "Use opaque offset shadows for Codeylon actions and workshop objects. Preserve the existing soft shadow only on the enlarged concept preview.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preserve navy, gold, square frames, and immediately visible pixel artwork as Codeylon's identity.",
+      "Do keep the supplied SVG paths and fill unchanged when cropping or placing the logo.",
+      "Do use readable sans-serif copy, explicit focus treatment, and native disclosure semantics.",
+      "Do retain the separate Olio, Forma, and Still palettes inside their concept presentations.",
+      "Do keep fiction labels visible and distinguish presentation content from real navigation and contact actions."
+    ],
+    "donts": [
+      "Don't set paragraphs or long interface instructions in the pixel face.",
+      "Don't place small muted-gold text on light surfaces; use the established dark ink treatment.",
+      "Don't round the Codeylon frames or replace their hard structural offsets with ambient shadows.",
+      "Don't turn decorative artwork or static concept labels into controls with no working destination.",
+      "Don't present generated concept imagery as evidence of clients, commissioned work, operating businesses, or live demos."
+    ]
+  }
+}
